@@ -1,0 +1,16 @@
+C:\Users\jonat\source\repos\AutomationPractise\AutomationPractise\bin\Debug\netcoreapp2.1\AutomationPractise.deps.json
+C:\Users\jonat\source\repos\AutomationPractise\AutomationPractise\bin\Debug\netcoreapp2.1\AutomationPractise.runtimeconfig.json
+C:\Users\jonat\source\repos\AutomationPractise\AutomationPractise\bin\Debug\netcoreapp2.1\AutomationPractise.runtimeconfig.dev.json
+C:\Users\jonat\source\repos\AutomationPractise\AutomationPractise\bin\Debug\netcoreapp2.1\AutomationPractise.dll
+C:\Users\jonat\source\repos\AutomationPractise\AutomationPractise\obj\Debug\netcoreapp2.1\AutomationPractise.csprojAssemblyReference.cache
+C:\Users\jonat\source\repos\AutomationPractise\AutomationPractise\obj\Debug\netcoreapp2.1\AutomationPractise.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\AutomationPractise\AutomationPractise\obj\Debug\netcoreapp2.1\AutomationPractise.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\AutomationPractise\AutomationPractise\obj\Debug\netcoreapp2.1\AutomationPractise.AssemblyInfo.cs
+C:\Users\jonat\source\repos\AutomationPractise\AutomationPractise\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jonat\source\repos\AutomationPractise\AutomationPractise\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jonat\source\repos\AutomationPractise\AutomationPractise\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jonat\source\repos\AutomationPractise\AutomationPractise\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Users\jonat\source\repos\AutomationPractise\AutomationPractise\bin\Debug\netcoreapp2.1\testhost.dll
+C:\Users\jonat\source\repos\AutomationPractise\AutomationPractise\bin\Debug\netcoreapp2.1\AutomationPractise.pdb
+C:\Users\jonat\source\repos\AutomationPractise\AutomationPractise\obj\Debug\netcoreapp2.1\AutomationPractise.dll
+C:\Users\jonat\source\repos\AutomationPractise\AutomationPractise\obj\Debug\netcoreapp2.1\AutomationPractise.pdb
